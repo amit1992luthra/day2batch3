@@ -1,2 +1,2 @@
 # day2batch3
-hello world
+hello shell batch
